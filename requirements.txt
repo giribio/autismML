@@ -25,3 +25,7 @@ streamlit==0.71.0
 scikit-learn==0.20.4
 seaborn
 joblib
+matplotlib.pyplot
+matplotlib
+pandas
+numpy
