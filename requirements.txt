@@ -20,12 +20,11 @@ requests==2.22.0
 retrying==1.3.3
 six==1.14.0
 urllib3==1.25.8
-webencodings==0.5.1
+webencodings
 streamlit==0.71.0
 scikit-learn==0.20.4
 seaborn
 joblib
-matplotlib.pyplot
 matplotlib
 pandas
 numpy
